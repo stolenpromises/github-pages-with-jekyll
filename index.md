@@ -1,5 +1,5 @@
 ---
-Jekyll: "Is it a reasonable option over a paid CMS?"
+title: "Welcome to my blog"
 ---
 
 We are going to find out.
