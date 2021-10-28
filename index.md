@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Jekyll: "Is it a reasonable option over a paid CMS?"
 ---
 
-I'm glad you are here. I plan to talk about ...
+We are going to find out.
